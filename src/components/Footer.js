@@ -106,6 +106,17 @@ const Footer = class extends React.Component {
               </div>
             </div>
           </div>
+      
+       <a
+                className="navbar-item"
+                href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <span className="icon">
+                  <img src={github} alt="Github" />
+                </span>
+      </a>
         </div>
       </footer>
     )
