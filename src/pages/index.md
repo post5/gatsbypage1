@@ -2,8 +2,8 @@
 templateKey: index-page
 title: TESTANDO O SITE
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: CONSTRUINDO UM BLOG
+subheading: Aqui fica a descrição
 mainpitch:
   title: Why Kaldi
   description: >
